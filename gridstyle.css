@@ -5,7 +5,7 @@ body {
 
 /* шапка и ссылки */
 .headcolor {
-    background-image: url(https://github.com/Adelaniada/Ada_Memoland/blob/main/огурчик_формат_394х392.png);
+    background-image: url(https://github.com/Adelaniada/Ada_Memoland/blob/main/огурчик_формат_394х392.png?raw=true);
     background-repeat: repeat-x;
     background-size: 100px;
     border-bottom: solid hsl(120, 30%, 24%) 6px;
